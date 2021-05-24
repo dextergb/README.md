@@ -1,7 +1,7 @@
-# [Dexter's](https://github.com/dextergb) Notes
+# Dexter's Notes
 
 ## Summary
-This repository contains all of the notes taken by Dexter for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+This repository contains all of the notes taken by [Dexter](https://github.com/dextergb) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 ### Table of Contents
 * [Week 1](/Week_1)
